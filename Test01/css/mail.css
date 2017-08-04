@@ -1,0 +1,202 @@
+body{
+	font-family: Arial;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background: url(../img/phon.jpg) no-repeat center top / cover;
+    height: 100vh
+    
+}
+
+
+}
+.logo{
+margin-top: 40px
+}
+
+.container{
+	width: 930px;
+	margin: 0 auto;
+}
+nav{
+	float: right;
+	margin-top: 38px;
+}
+.menu{
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+.menu li{
+	float: left;
+	display: block;
+	
+	text-transform: uppercase;
+	margin-right: 41px;
+}
+.menu a{
+	color: #fff;
+	text-decoration: none;
+	font-size: 14px;
+}
+.titles_first{
+	font-size: 40px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+h1{	
+	font-size: 50px;
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+}
+.titles{
+	padding-top: 150px;
+}
+.group{
+	text-align: center;
+	font-size: 20px;
+	border-radius: 3px;
+	background: #c2a815;
+	width: 240px;
+	padding:20px 0;
+	margin: 0 auto;
+
+ 
+}
+.group a{
+	display: block;
+	text-decoration: none;
+    color: #000;
+}
+.info_server h2{
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 10px;
+	font-weight: block;
+	margin: 0;
+	padding-top: 35px;
+}
+
+.info{
+	padding: 0;
+	display: block;
+	background: #7198e1;
+	padding-bottom: 81px;
+
+}
+.info p{
+	text-align: center;
+	font-size: 22px
+}
+.invo_img{
+  text-align: center
+
+}
+.text_info{
+    color: #fff;
+	text-align: center;
+}
+.info_md h1{
+	text-transform: uppercase;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 20px;
+	color: #000;
+}
+.Sostav{
+	font-size: 20px;
+}
+.Spisok{
+	padding: 0;
+	margin: 0;
+	display: block;
+
+}
+.Spisok li{
+	float: left;
+	display: block;
+	margin-right: 41px;
+	font-size: 20px;
+
+}
+.Center{
+	width: 930px;
+	margin: 0 auto;
+}
+.Grand{
+	width: 1080px;
+	margin: 0 auto;
+}
+.MineGnom{
+	color: #000;
+}
+.Mine{
+	padding-top: 22px;
+}
+.svaz a{
+	text-decoration: none;
+	color: #ff1111;
+}
+.Alena a{
+	text-decoration: none;
+	color: #ff1111;
+}
+.St{
+	width: 1080px;
+	margin: 0 auto;
+}
+._Holy_ p{
+	float:left; 
+    margin: 7px 7px 7px 0
+}
+.example{
+	width: 1080px;
+	margin: 0 auto;
+	padding: 75px;
+}
+.Moder h1{
+	color: #000;
+}
+.San a{
+	text-decoration: none;
+	color: #ff1111;
+}
+.Moder{
+	width: 1080px;
+	margin: 0 auto;
+	padding: 75px;
+}
+.Redlin007 h1{
+	padding-top: 50px;
+
+}
+.Grand h1{
+	padding-top: 50px;
+}
+.Shift p{
+	font-size: 25px;
+}
+.Fros{
+	width: 1080px;
+	margin: 0 auto;
+	padding: 0px;
+}
+.Froskyta{
+    padding-top: 100px;
+}
+.md{
+	background: #cea825;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+
+
+
+
+
